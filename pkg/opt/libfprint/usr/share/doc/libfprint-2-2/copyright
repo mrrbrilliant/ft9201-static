@@ -1,0 +1,45 @@
+This package was debianized by Ulises Vitulli <uvitulli@fi.uba.ar>  on
+Fri, 19 Sep 2008 05:14:30 -0300.
+
+It was downloaded from <http://reactivated.net/fprint/wiki/Libfprint>
+
+Upstream Authors, and Copyright:
+
+Copyright © 2007 Daniel Drake <dsd@gentoo.org>
+Copyright © 2006-2007 Timo Hoenig <thoenig@suse.de>
+Copyright © 2006 Pavel Machek <pavel@suse.cz>
+Copyright © 1999 Erik Walthinsen <omega@cse.ogi.edu>
+Copyright © 2004,2006 Thomas Vander Stichele <thomas at apestaart dot org>
+Copyright © 2007 Cyrille Bagard
+Copyright © 2007 Vasily Khoruzhick
+Copyright © 2007 Jan-Michael Brummer <buzz2@gmx.de>
+Copyright © 2007 Anthony Bretaudeau <wxcover@users.sourceforge.net>
+
+
+License:
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+The files under libfprint/nbis directory has this license:
+
+This software was developed at the National Institute of Standards and
+Technology (NIST) by employees of the Federal Government in the course
+of their official duties. Pursuant to title 17 Section 105 of the
+United States Code, this software is not subject to copyright protection
+and is in the public domain. NIST assumes no responsibility  whatsoever for
+its use by other parties, and makes no guarantees, expressed or implied,
+about its quality, reliability, or any other characteristic.
+
+The Debian packaging is © 2008, Ulises Vitulli <uvitulli@fi.uba.ar> and is
+licensed under the LGPL v2.1, see `/usr/share/common-licenses/LGPL-2.1'.

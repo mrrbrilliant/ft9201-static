@@ -1,0 +1,3 @@
+# For security reasons, we don't want the fingerprint readers to be accessible
+# by unprivileged users
+udev-rule-missing-uaccess
